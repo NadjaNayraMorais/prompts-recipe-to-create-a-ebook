@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="LINK DO SEU REPOSITORIO " title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/NadjaNayraMorais/prompts-recipe-to-create-a-ebook/blob/main/output/readme.md" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
