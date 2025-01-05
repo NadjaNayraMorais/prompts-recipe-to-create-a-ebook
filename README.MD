@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/NadjaNayraMorais/prompts-recipe-to-create-a-ebook/blob/main/output/readme.md" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/NadjaNayraMorais/prompts-recipe-to-create-a-ebook/blob/main/output/guiadeturismo.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -36,24 +36,21 @@ seguem abaixo.
 ## 🧠 Prompts
 
 
-ChatGPT：
+Microsoft Copilot
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  |                                                      |
-| conteúdo |                                                      |
-
-
-Midjourney：
+|  título  | Crie um título sobre as Habilidades Essenciais de um Guia Turístico |
+| conteúdo | Listar as habilidades necessárias para se tornar um guia de turismo detalhando cada uma |
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título |                                                                                        |
+| Imagem titulo |    gerar uma imagem de um guia turistico com um grupo de turistas  |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Microsoft Copilot
+- Imagens geradas via Microsoft Copilot
 
 ## 📚 Materiais
 
